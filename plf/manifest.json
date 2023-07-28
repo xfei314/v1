@@ -1,9 +1,6 @@
 {
-  "_package-db369734.js": {
-    "file": "assets/package-db369734.js"
-  },
   "index.css": {
-    "file": "assets/index-23cb4016.css",
+    "file": "assets/index-c38aba1a.css",
     "src": "index.css"
   },
   "index.html": {
@@ -11,7 +8,7 @@
       "assets/df-avatar-b9a54527.png"
     ],
     "css": [
-      "assets/index-23cb4016.css"
+      "assets/index-c38aba1a.css"
     ],
     "dynamicImports": [
       "src/pages/Home.vue",
@@ -20,7 +17,7 @@
       "src/components/Header/AppMenu.vue",
       "src/components/Login/LoginForm.vue"
     ],
-    "file": "assets/index-54decc1d.js",
+    "file": "assets/index-6fca0100.js",
     "isEntry": true,
     "src": "index.html"
   },
@@ -48,44 +45,42 @@
     "css": [
       "assets/LoginForm-d10d675b.css"
     ],
-    "file": "assets/LoginForm-f6c6e029.js",
+    "file": "assets/LoginForm-c02e932a.js",
     "isDynamicEntry": true,
     "src": "src/components/Login/LoginForm.vue"
   },
   "src/pages/About.css": {
-    "file": "assets/About-1a07eb22.css",
+    "file": "assets/About-48b6d13e.css",
     "src": "src/pages/About.css"
   },
   "src/pages/About.vue": {
     "css": [
-      "assets/About-1a07eb22.css"
+      "assets/About-48b6d13e.css"
     ],
-    "file": "assets/About-d20f3884.js",
+    "file": "assets/About-1d19c795.js",
     "imports": [
-      "_package-db369734.js",
       "index.html"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/About.vue"
   },
   "src/pages/Home.css": {
-    "file": "assets/Home-0278bf73.css",
+    "file": "assets/Home-dcee5684.css",
     "src": "src/pages/Home.css"
   },
   "src/pages/Home.vue": {
     "css": [
-      "assets/Home-0278bf73.css"
+      "assets/Home-dcee5684.css"
     ],
-    "file": "assets/Home-b456e2a7.js",
+    "file": "assets/Home-cd00e4b9.js",
     "imports": [
-      "_package-db369734.js",
       "index.html"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/Home.vue"
   },
   "src/pages/NoPermission.vue": {
-    "file": "assets/NoPermission-ad3bcb31.js",
+    "file": "assets/NoPermission-bb91cedf.js",
     "imports": [
       "index.html"
     ],

@@ -1,0 +1,106 @@
+{
+  "_debounce-cfb0e9ed.js": {
+    "file": "assets/debounce-cfb0e9ed.js"
+  },
+  "src/i18n/locale/en_US.js": {
+    "file": "assets/en_US-7703b89e.js",
+    "isDynamicEntry": true,
+    "src": "src/i18n/locale/en_US.js"
+  },
+  "src/i18n/locale/zh_CN.js": {
+    "file": "assets/zh_CN-df2a6da3.js",
+    "isDynamicEntry": true,
+    "src": "src/i18n/locale/zh_CN.js"
+  },
+  "src/index.css": {
+    "file": "assets/index-998a1491.css",
+    "src": "src/index.css"
+  },
+  "src/index.js": {
+    "css": [
+      "assets/index-998a1491.css"
+    ],
+    "dynamicImports": [
+      "src/pages/About.vue",
+      "src/pages/About/echarts.vue",
+      "src/pages/About/index.vue",
+      "src/pages/Echart.vue",
+      "src/pages/Home.vue",
+      "src/i18n/locale/en_US.js",
+      "src/i18n/locale/zh_CN.js"
+    ],
+    "file": "assets/index-a5fd4ec4.js",
+    "isEntry": true,
+    "src": "src/index.js"
+  },
+  "src/pages/About.css": {
+    "file": "assets/About-0f4d6838.css",
+    "src": "src/pages/About.css"
+  },
+  "src/pages/About.vue": {
+    "css": [
+      "assets/About-0f4d6838.css"
+    ],
+    "file": "assets/About-613e0914.js",
+    "imports": [
+      "src/index.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/About.vue"
+  },
+  "src/pages/About/echarts.css": {
+    "file": "assets/echarts-9f71bb28.css",
+    "src": "src/pages/Echart.css"
+  },
+  "src/pages/About/echarts.vue": {
+    "css": [
+      "assets/echarts-9f71bb28.css"
+    ],
+    "file": "assets/echarts-39ad245e.js",
+    "imports": [
+      "src/index.js",
+      "_debounce-cfb0e9ed.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/About/echarts.vue"
+  },
+  "src/pages/About/index.vue": {
+    "file": "assets/index-517c19f7.js",
+    "imports": [
+      "src/index.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/About/index.vue"
+  },
+  "src/pages/Echart.css": {
+    "file": "assets/echarts-9f71bb28.css",
+    "src": "src/pages/Echart.css"
+  },
+  "src/pages/Echart.vue": {
+    "css": [
+      "assets/echarts-9f71bb28.css"
+    ],
+    "file": "assets/Echart-1e480dc5.js",
+    "imports": [
+      "src/index.js",
+      "_debounce-cfb0e9ed.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/Echart.vue"
+  },
+  "src/pages/Home.css": {
+    "file": "assets/Home-8f3c2858.css",
+    "src": "src/pages/Home.css"
+  },
+  "src/pages/Home.vue": {
+    "css": [
+      "assets/Home-8f3c2858.css"
+    ],
+    "file": "assets/Home-ca319d27.js",
+    "imports": [
+      "src/index.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/Home.vue"
+  }
+}
