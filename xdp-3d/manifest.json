@@ -1,6 +1,8 @@
 {
-  "_debounce-cfb0e9ed.js": {
-    "file": "assets/debounce-cfb0e9ed.js"
+  "__vite-browser-external": {
+    "file": "assets/__vite-browser-external-b25bb000.js",
+    "isDynamicEntry": true,
+    "src": "__vite-browser-external"
   },
   "src/i18n/locale/en_US.js": {
     "file": "assets/en_US-7703b89e.js",
@@ -24,24 +26,24 @@
       "src/pages/About.vue",
       "src/pages/About/echarts.vue",
       "src/pages/About/index.vue",
-      "src/pages/Echart.vue",
+      "src/pages/Cesium.vue",
       "src/pages/Home.vue",
       "src/i18n/locale/en_US.js",
       "src/i18n/locale/zh_CN.js"
     ],
-    "file": "assets/index-156b790d.js",
+    "file": "assets/index-a250abbb.js",
     "isEntry": true,
     "src": "src/index.js"
   },
   "src/pages/About.css": {
-    "file": "assets/About-a0754d89.css",
+    "file": "assets/About-0f4d6838.css",
     "src": "src/pages/About.css"
   },
   "src/pages/About.vue": {
     "css": [
-      "assets/About-a0754d89.css"
+      "assets/About-0f4d6838.css"
     ],
-    "file": "assets/About-2b9ead56.js",
+    "file": "assets/About-bff629e5.js",
     "imports": [
       "src/index.js"
     ],
@@ -50,43 +52,47 @@
   },
   "src/pages/About/echarts.css": {
     "file": "assets/echarts-9f71bb28.css",
-    "src": "src/pages/Echart.css"
+    "src": "src/pages/About/echarts.css"
   },
   "src/pages/About/echarts.vue": {
     "css": [
       "assets/echarts-9f71bb28.css"
     ],
-    "file": "assets/echarts-c64f0609.js",
+    "file": "assets/echarts-6e793fae.js",
     "imports": [
-      "src/index.js",
-      "_debounce-cfb0e9ed.js"
+      "src/index.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/About/echarts.vue"
   },
   "src/pages/About/index.vue": {
-    "file": "assets/index-81f438b2.js",
+    "file": "assets/index-71f21942.js",
     "imports": [
       "src/index.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/About/index.vue"
   },
-  "src/pages/Echart.css": {
-    "file": "assets/echarts-9f71bb28.css",
-    "src": "src/pages/Echart.css"
+  "src/pages/Cesium.css": {
+    "file": "assets/Cesium-d5524a39.css",
+    "src": "src/pages/Cesium.css"
   },
-  "src/pages/Echart.vue": {
+  "src/pages/Cesium.vue": {
     "css": [
-      "assets/echarts-9f71bb28.css"
+      "assets/Cesium-d5524a39.css"
     ],
-    "file": "assets/Echart-cb11f53d.js",
+    "dynamicImports": [
+      "__vite-browser-external",
+      "__vite-browser-external",
+      "__vite-browser-external",
+      "__vite-browser-external"
+    ],
+    "file": "assets/Cesium-c8e71f8a.js",
     "imports": [
-      "src/index.js",
-      "_debounce-cfb0e9ed.js"
+      "src/index.js"
     ],
     "isDynamicEntry": true,
-    "src": "src/pages/Echart.vue"
+    "src": "src/pages/Cesium.vue"
   },
   "src/pages/Home.css": {
     "file": "assets/Home-8f3c2858.css",
@@ -96,7 +102,7 @@
     "css": [
       "assets/Home-8f3c2858.css"
     ],
-    "file": "assets/Home-c69a8372.js",
+    "file": "assets/Home-9e656fd6.js",
     "imports": [
       "src/index.js"
     ],
